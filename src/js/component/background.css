@@ -1,0 +1,8 @@
+body {
+    background-image: url('https://i.pinimg.com/736x/22/c5/d5/22c5d5fa8ed9896722beeffe0169233e.jpg'); /* Reemplaza con la ruta a tu imagen */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Fija la imagen durante el desplazamiento */
+    background-size: cover;
+    background-position: center;
+    margin: 0; /* Elimina el margen predeterminado del cuerpo */
+  }
